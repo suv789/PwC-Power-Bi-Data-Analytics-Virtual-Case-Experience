@@ -30,6 +30,18 @@ This dashboard was developed in response to a request from the telecom's Retenti
 
 Access [here](https://github.com/suv789/PwC-Power-Bi-Data-Analytics-Virtual-Case-Experience/blob/main/Task%202%20-%20Customer%20Retention/Customer%20Churn%20%26%20Risk%20Analysis.pbix) for live and interactive dashboards.
 
+<p align="center">
+    <img src="https://github.com/suv789/PwC-Power-Bi-Data-Analytics-Virtual-Case-Experience/blob/main/README%20ASSESTS/Customer%20Churn%20and%20Risk%20Analysis%20-1.png" alt="Customer Retention 1" style="width: 80%"/>
+</p>
+
+<p align="center">
+    <img src="https://github.com/suv789/PwC-Power-Bi-Data-Analytics-Virtual-Case-Experience/blob/main/README%20ASSESTS/Customer%20Churn%20and%20Risk%20Analysis%20-2.png" alt="Customer Retention 2" style="width: 80%"/>
+</p>
+
+
+
+
+
 
 
 
