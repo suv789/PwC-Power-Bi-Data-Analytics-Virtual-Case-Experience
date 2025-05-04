@@ -16,3 +16,15 @@ Through meticulous data analysis and visualization, this project aims to support
 
 ### Call Centre Trends
 
+
+Access [here](Access [here](https://www.novypro.com/project/pwc-switzerland-virtual-case-experience---task-1-call-center-trends-power-bi) for live and interactive dashboards.) for live and interactive dashboards.
+
+<p align="center">
+    <img src="https://github.com/suv789/PwC-Power-Bi-Data-Analytics-Virtual-Case-Experience/blob/main/README%20ASSESTS/Call_Centre.png" alt="Call Centre Trends" style="width: 80%"/>
+</p>
+
+
+
+
+
+
