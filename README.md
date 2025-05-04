@@ -24,6 +24,13 @@ Access [here](Access [here](https://www.novypro.com/project/pwc-switzerland-virt
 </p>
 
 
+### Customer Retention
+
+This dashboard was developed in response to a request from the telecom's Retention Manager, showcasing key metrics related to customer loyalty and retention. It visualizes data to predict customer churn and identifies potential strategies to enhance customer retention.
+
+Access [here](https://github.com/suv789/PwC-Power-Bi-Data-Analytics-Virtual-Case-Experience/blob/main/Task%202%20-%20Customer%20Retention/Customer%20Churn%20%26%20Risk%20Analysis.pbix) for live and interactive dashboards.
+
+
 
 
 
