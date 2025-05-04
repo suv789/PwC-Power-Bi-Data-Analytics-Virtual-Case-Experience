@@ -10,3 +10,9 @@ Through meticulous data analysis and visualization, this project aims to support
 <p align="center">
     <img src="https://github.com/suv789/PwC-Power-Bi-Data-Analytics-Virtual-Case-Experience/blob/main/README%20ASSESTS/Project_Themes.png" alt=" Intro image" style="width: 80%"/>
 </p>
+
+
+## Dashboards and Visualizations
+
+### Call Centre Trends
+
