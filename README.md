@@ -38,8 +38,19 @@ Access [here](https://github.com/suv789/PwC-Power-Bi-Data-Analytics-Virtual-Case
     <img src="https://github.com/suv789/PwC-Power-Bi-Data-Analytics-Virtual-Case-Experience/blob/main/README%20ASSESTS/Customer%20Churn%20and%20Risk%20Analysis%20-2.png" alt="Customer Retention 2" style="width: 80%"/>
 </p>
 
+### Diversity & Inclusion
 
+Focusing on the telecom client's goal of improving gender balance at the executive management level, this dashboard visualizes metrics related to diversity and inclusion, offering insights into current trends and areas for action.
 
+Access [here](https://github.com/suv789/PwC-Power-Bi-Data-Analytics-Virtual-Case-Experience/blob/main/Task%203%20-%20Diversity%20%26%20Inclusion/Diversity%20%26%20Inclusion.pbix) for live and interactive dashboards.
+
+<p align="center">
+    <img src="https://github.com/suv789/PwC-Power-Bi-Data-Analytics-Virtual-Case-Experience/blob/main/README%20ASSESTS/Diversity%20%26%20Inclusion%201.png" alt="Diversity & Inclusion 1" style="width: 80%"/>
+</p>
+
+<p align="center">
+    <img src="https://github.com/suv789/PwC-Power-Bi-Data-Analytics-Virtual-Case-Experience/blob/main/README%20ASSESTS/Diversity%20%26%20Inclusion%202.png" alt="Diversity & Inclusion 2" style="width: 80%"/>
+</p>
 
 
 
